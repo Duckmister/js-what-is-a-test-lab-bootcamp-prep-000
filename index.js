@@ -5,6 +5,6 @@ var message = `${name} is ${height} inches tall`
 module.exports = {name, height, message}
 */
 
-function sayHelloTo(firstName){
+function sayHelloTo(firstName) {
   console.log('Hello, ${firstName}!')
 }
